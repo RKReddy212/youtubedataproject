@@ -1,0 +1,6 @@
+streamlit
+pandas
+pymongo
+mysql.connector
+googleapiclient.discovery
+build
