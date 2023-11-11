@@ -2,4 +2,6 @@ streamlit
 pandas
 pymongo
 mysql.connector
+googleapiclient.discovery
+from googleapiclient.discovery import build
 
